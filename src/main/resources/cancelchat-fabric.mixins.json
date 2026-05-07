@@ -2,9 +2,9 @@
   "required": true,
   "minVersion": "0.8",
   "package": "com.callumwong.cancelchatfabric.mixin",
-  "compatibilityLevel": "JAVA_21",
+  "compatibilityLevel": "JAVA_25",
   "server": [
-    "PlayerManagerMixin"
+    "PlayerListMixin"
   ],
   "injectors": {
     "defaultRequire": 1
